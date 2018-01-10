@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Webexp
+
+This is a first pass at creating a website using GitHub
+
+Just remember  
+
+github.com/username/repo --> username.github.io/repo
 
 You can use the [editor on GitHub](https://github.com/sinkovit/Webexp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
